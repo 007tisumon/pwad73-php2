@@ -1,12 +1,7 @@
 <?php
 
-echo "hello world";
+echo "hello world <br>";
 
 
-$num = 5;
-
-function printss(int $num)
-{
-    echo $num;
-}
-printss($num);
+echo"<pre>";
+var_dump($GLOBALS);

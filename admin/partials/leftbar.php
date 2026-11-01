@@ -427,7 +427,7 @@
             <li>
                 <div class="dropdown-divider mb-0"></div>
             </li>
-            <li><a class="dropdown-item" href="javascript:;"><span class="material-symbols-outlined me-2">
+            <li><a class="dropdown-item" href="logout.php"><span class="material-symbols-outlined me-2">
                         logout
                     </span><span>Logout</span></a>
             </li>
